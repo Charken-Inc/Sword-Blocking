@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"mr_sword_blocking","version":"1.1","name":"Sword Blocking","description":"Adds the old sword blocking so you can say hello.","authors":["JacobA0225","Bumstronaut"],"contact":{"homepage":"https://modrinth.com/datapack/sword_blocking"},"license":"MIT","icon":"sword_blocking_pack.png","environment":"*","depends":{"fabric-resource-loader-v0":"*"}}
